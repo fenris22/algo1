@@ -1,10 +1,11 @@
 //
 // Created by fenris on 11/16/22.
 //
-#include <cstdlib>
+#include <fenc.h>
 #include <iostream>
 
 int main() {
+
     printf("String we are going to encrypt: \"hello\"\n");
     printf("I'm gonna use a 8 bit key to keep things simple. The key will be \"53a267df\"\n");
 

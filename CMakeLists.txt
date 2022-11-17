@@ -7,3 +7,4 @@ set(SOURCE_FILES main.cpp)
 
 # Add executable target with source files listed in SOURCE_FILES variable
 add_executable(algo1 ${SOURCE_FILES})
+include_directories("/home/fenris/github/fenc")
