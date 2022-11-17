@@ -6,7 +6,7 @@
 int main() {
 
 
-
+    std::cout << "just git stuff";
 
     return 0;
 }
